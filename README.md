@@ -8,3 +8,23 @@ for about a week now.
 
 ## Requires
 `sudo apt install at`
+
+## Example:
+
+```
+$ ./timeforyourmeeting.sh 
+
+Let's set some alerts.. ctrl+c to quit.
+
+
+Enter your meeting time:
+9:28
+
+Enter your next meeting time:
+11:28
+
+Enter your next meeting time:
+^C
+
+Happy meeting day!
+```

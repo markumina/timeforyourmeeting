@@ -21,17 +21,34 @@ Ubuntu 20.04
 ```
 $ ./timeforyourmeeting.sh 
 
-Let's set some alerts.. ctrl+c to quit.
+Let's set some alerts [24hr clock]..
+ -- ctrl+c to quit.
+ -- ctrl+d to cancel all alerts.
 
 
 Enter your meeting time:
-9:28
+12:28
 
 Enter your next meeting time:
-11:28
+14:28
 
 Enter your next meeting time:
 ^C
 
 Happy meeting day!
+
+$ ./timeforyourmeeting.sh 
+
+Let's set some alerts [24hr clock]..
+ -- ctrl+c to quit.
+ -- ctrl+d to cancel all alerts.
+
+
+Enter your meeting time:
+
+
+** Deleting all meeting alerts! **
+
+
+... done, gbye!
 ```
